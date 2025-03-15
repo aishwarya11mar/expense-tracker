@@ -16,7 +16,7 @@ function Header() {
           <Link href={'/dashboard'}>
             <Button variant="outline">Dashboard</Button>
             </Link>
-        <Link href={'/sign-in'}>
+        <Link href={'/dashboard'}>
           <Button>Get Started</Button>
         </Link>
         </div>
